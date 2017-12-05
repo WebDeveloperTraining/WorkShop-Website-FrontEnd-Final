@@ -664,11 +664,10 @@ min-height: 1000px;
 }
 
 
-/* Clearfix */
 .cf:before,
 .cf:after {
-	content: " "; /* 1 */
-	display: table; /* 2 */
+	content: " "; 
+	display: table; 
 }
 
 .cf:after {
@@ -768,4 +767,8 @@ min-height: 1000px;
 .sttslogin{
 	color: red;
 	display: none;
+}
+.row{
+	margin-right: 0px;
+	margin-left: 0px;
 }

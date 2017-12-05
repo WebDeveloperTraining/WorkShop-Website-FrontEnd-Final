@@ -1829,6 +1829,9 @@ table{
 .custable tbody tr td{
   color: #73879C;
 }
+.customtable2 thead tr th:first-child{
+  width: 5%;
+}
 tr.cus-colo{
   background-color: #F9F9F9;
 }
